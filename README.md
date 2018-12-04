@@ -1,2 +1,2 @@
 # Bandpass 2nd Order Sallen Key Solver
-EE 3028 Circuits III
+EE 3028 Electric Circuits III
